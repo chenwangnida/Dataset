@@ -1,8 +1,8 @@
-# Augmented WSC08 and WSC09 Dataset
-The new benchmark inherits the functionalities provided by services in benchmark dataset WSC-08 and WSC-09 and QoS attributes of web services in the benchmark dataset QWS. The number of web services in the service repository is doubled (with much bigger searching space).
+# Title - Augmented WSC08 and WSC09 Dataset
+This new benchmark inherits the functionalities provided by services in benchmark dataset WSC-08 and WSC-09 and QoS attributes of web services in the benchmark dataset QWS. The number of web services in the service repository is doubled (with much bigger searching space).
 
 
-## Introduction
+# Introduction
 Both WSC08 and WSC09 dataset includes a set of composition tasks. Each composition task consists of three XML files, which serve as input files of web service composition algorithm. These files includes:
 
 1. services-output.xml (i.e., a set of services with instances of inputs and outputs, and values of QoS), 
