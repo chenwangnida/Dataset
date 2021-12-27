@@ -13,3 +13,6 @@ Based on the semantics described in the taxonomy.owl file, it is feasible to per
 
 # Dataset creatation
 We clone each services in WSC08 and WSC09 with the same inputs and outputs, but with different QoS values. This augmented datasets provide more services that can be selected for each vertex of the DAG-based solutions. We also make this datasets available to the public. Particularly, WSC08 contains 8 composition tasks with increasing size of service repository, i.e., 316, 1116, 1216, 2082, 2180, 4396, 8226, and 16238, and WSC09 contains 5 composition tasks with increasing size of service repository, i.e., 1144, 8258, 16276, 16602, and 30422 $\mathcal{SR}$s respectively
+
+# Please cite this paper
+C. Wang, H. Ma, G. Chen and S. Hartmann, "Memetic EDA-Based Approaches to QoS-Aware Fully-Automated Semantic Web Service Composition," in IEEE Transactions on Evolutionary Computation, doi: 10.1109/TEVC.2021.3127633.
